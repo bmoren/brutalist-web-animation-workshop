@@ -1,0 +1,34 @@
+.duration1s{
+  animation-duration: 1s
+}
+.duration2s{
+  animation-duration: 2s
+}
+.duration3s{
+  animation-duration: 3s
+}
+.duration4s{
+  animation-duration: 4s
+}
+.duration5s{
+  animation-duration: 5s
+}
+.duration6s{
+  animation-duration: 6s
+}
+.duration7s{
+  animation-duration: 7s
+}
+.duration8s{
+  animation-duration: 8s
+}
+.duration9s{
+  animation-duration: 9s
+}
+.duration10s{
+  animation-duration: 10s
+}
+
+.alternate{
+  animation-direction: alternate;
+}
