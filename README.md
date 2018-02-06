@@ -2,11 +2,11 @@
 a workshop on brutalist web animations using animate.css &amp; friends
 
 1. create a new index.html document
-1. link to <a href="">animate.css</a> CDN in the head of your document
+1. link to <a href="https://daneden.github.io/animate.css/">animate.css</a> CDN in the head of your document
 1. link the `extendanimate.css` stylesheet from this repo
 1. lay out a brutalist composition using flexbox or CSS grid. Think about what makes the elements of the web unique what is its essence? what is its materiality?
 1. use the following classes to help animate!
-  +  check animate.css documentaiton for animation styles
+  +  check <a href="https://daneden.github.io/animate.css/">animate.css</a> documentation for animation styles
   + `animated` make an element animated!
   + `alternate` do the animation forwards and backwards
   + `infinite` loop the animation forever
