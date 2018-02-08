@@ -1,0 +1,60 @@
+body,html{
+  margin:0;
+
+  height: 100vh;
+  width: 100vw;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: blue;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+*{box-sizing: inherit;}
+
+div{
+  height: 3000px;
+  width:20px;
+
+  background: radial-gradient(rgba(255,0,0,0.5), rgba(0,255,0,0.5));
+  box-shadow: 10px 10px rgba(255,100,100,0.5);
+  /* border:30px rgba(0,0,255) dashed;*/
+
+}
+
+.duration1s{
+  animation-duration: 1s
+}
+.duration2s{
+  animation-duration: 2s
+}
+.duration3s{
+  animation-duration: 3s
+}
+.duration4s{
+  animation-duration: 4s
+}
+.duration5s{
+  animation-duration: 5s
+}
+.duration6s{
+  animation-duration: 6s
+}
+.duration7s{
+  animation-duration: 7s
+}
+.duration8s{
+  animation-duration: 8s
+}
+.duration9s{
+  animation-duration: 9s
+}
+.duration10s{
+  animation-duration: 10s
+}
+
+.alternate{
+  animation-direction: alternate;
+}
+
